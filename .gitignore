@@ -1,5 +1,6 @@
 # Build directories
 build/
+fresh_build/
 fresh-build/
 cmake-build-*/
 out/
@@ -13,12 +14,13 @@ CTestTestfile.cmake
 build.ninja
 .ninja_deps
 .ninja_log
+Makefile
 
 # Qt / autogen
 *_autogen/
 .autogen/
 
-# Object/binary files
+# Object and binary files
 *.o
 *.obj
 *.out
@@ -37,3 +39,9 @@ build.ninja
 
 # macOS
 .DS_Store
+
+# Local run outputs
+input.bmp
+output.bmp
+output.jpeg
+mushroom.jpeg
