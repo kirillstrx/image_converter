@@ -1,6 +1,6 @@
 # Build directories
 build/
-fresh_build/
+fresh-build/
 cmake-build-*/
 out/
 
