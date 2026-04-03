@@ -2,6 +2,13 @@
 
 ## How to run the main program
 
+Firsly, you need to build your code%
+
+```bash
+cmake -S . -B build
+cmake --build build
+```
+
 The main console application is called **`image_processor`**.
 After building the project, run it from the terminal like this:
 
