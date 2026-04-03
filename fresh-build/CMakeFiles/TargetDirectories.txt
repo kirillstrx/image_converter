@@ -1,0 +1,4 @@
+/Users/kirillstrasnov/CLionProjects/image_processor_project/fresh-build/CMakeFiles/image_processor.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/fresh-build/CMakeFiles/unit_tests.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/fresh-build/CMakeFiles/edit_cache.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/fresh-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/image_processor.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/image_processor_gui.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/unit_tests.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/image_processor_autogen_timestamp_deps.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/image_processor_autogen.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/image_processor_gui_autogen_timestamp_deps.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/image_processor_gui_autogen.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/unit_tests_autogen_timestamp_deps.dir
+/Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/CMakeFiles/unit_tests_autogen.dir
