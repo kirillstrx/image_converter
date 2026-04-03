@@ -2,7 +2,7 @@
 
 ## How to run the main program
 
-Firsly, you need to build your code%
+Firsly, you need to build your code:
 
 ```bash
 cmake -S . -B build
