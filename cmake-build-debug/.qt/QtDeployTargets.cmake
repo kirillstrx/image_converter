@@ -1,6 +1,0 @@
-set(__QT_DEPLOY_TARGET_image_processor_FILE /Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/image_processor)
-set(__QT_DEPLOY_TARGET_image_processor_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_image_processor_gui_FILE /Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/image_processor_gui)
-set(__QT_DEPLOY_TARGET_image_processor_gui_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_unit_tests_FILE /Users/kirillstrasnov/CLionProjects/image_processor_project/cmake-build-debug/unit_tests)
-set(__QT_DEPLOY_TARGET_unit_tests_TYPE EXECUTABLE)

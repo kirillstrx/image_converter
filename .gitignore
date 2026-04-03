@@ -1,0 +1,39 @@
+# Build directories
+build/
+fresh_build/
+cmake-build-*/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Qt / autogen
+*_autogen/
+.autogen/
+
+# Object/binary files
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.user
+*.autosave
+
+# macOS
+.DS_Store
